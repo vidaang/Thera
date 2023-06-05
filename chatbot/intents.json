@@ -1,0 +1,39 @@
+{"intents": [
+    {
+        "tag": "greetings",
+        "patterns": ["hello", "hi", "hey", "hello there", "hi there", "whats going on?", "how is it going?"],
+        "responses": ["Hello how are you doing today?", "Hey! How's it going?", "Hey, it's great to see you!", "Hey! How have you been?"]
+
+    },
+    {
+        "tag": "goodbye",
+        "patterns": ["bye", "see you later", "goodbye", "have a good day", "adios"],
+        "responses": ["Goodbye, and don't hesitate to reach out if you need anything else.", "Until next time!", "It was nice talking to you. Goodbye!", "Goodbye! Have a nice day."]
+    },
+    {
+        "tag": "happy",
+        "patterns": ["im so happy", "im so excited", "im looking forward to it"],
+        "responses": ["That's so nice to hear I'm happy for you!", "I'm glad you're feeling that way!", "That's awesome! I'm excited for you!"]
+    },
+    {
+        "tag": "sad",
+        "patterns": ["im depressed", "im really sad", "i dont feel happy", "i feel down", "i havent been feeling great", "im crying"],
+        "responses": ["I'm sorry to hear that did you want to talk about it?", "I'm here for you did you want to talk about it?", "What's going on?"]
+    },
+    {
+        "tag": "angry",
+        "patterns": ["mad", "angry", "upset", "frustrated", "livid", "upset"],
+        "responses": ["It will be okay, one step at a time.", "That sounds like a really difficult situation I'm sorry you're going throght that",
+                      "Try not to get too worked up about this. Things will pass with time"]
+    },
+    {
+        "tag": "agree",
+        "patterns": ["yes", "what", "yeah", "yup", "sure"],
+        "responses": ["Can you elaborate more for me?", "Go on :)"]
+    },
+    {
+        "tag": "disagree",
+        "patterns": ["no", "nope", "nah", "not really", "i don't want to"],
+        "responses": ["Okai:)", "Did you want to talk about something else?", "Let's change the topic what else did you want to talk about?"]
+    }
+]}

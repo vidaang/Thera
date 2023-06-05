@@ -1,0 +1,32 @@
+Additional intents:
+    {
+        "tag": "anxiety",
+        "patterns": [],
+        "responses": []
+    },
+    {
+        "tag": "guilt",
+        "patterns": [],
+        "responses": []
+    },
+    {
+        "tag": "embarressment",
+        "patterns": [],
+        "responses": []
+    },
+    {
+        "tag": "jealous",
+        "patterns": [],
+        "responses": []
+    },
+    {
+        "tag": "frustration",
+        "patterns": [],
+        "responses": []
+    },
+
+Link to ChatBot Video:
+https://www.youtube.com/watch?v=1lwddP0KUEg&ab_channel=NeuralNine
+
+Download Missing File for Android Studio:
+https://github.com/intel/haxm/wiki/Installation-Instructions-on-Windows
